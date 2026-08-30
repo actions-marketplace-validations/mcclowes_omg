@@ -28,7 +28,7 @@
     "vscode:prepublish": "npm run build && npm run bundle-server"
   },
   "dependencies": {
-    "vscode-languageclient": "^9.0.1"
+    "vscode-languageclient": "^10.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
